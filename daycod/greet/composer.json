@@ -1,0 +1,19 @@
+{
+    "name": "daycod/greet",
+    "description": "A Simple Laravel Package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dayCod",
+            "email": "alayarahman07@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Daycod\\Greet\\": "src/"
+        }
+    },
+    "require": {}
+}
